@@ -1,0 +1,7 @@
+name: ApiTdi
+version: '${project.version}'
+main: net.ntdi.api.Api
+api-version: 1.17
+authors: [ Ntdi ]
+description: a plugin for using api's
+website: ntdi.net
